@@ -3,8 +3,6 @@
   "version": "1.85.0",
   "private": true,
   "engines": {
-
-    "engines": {
     "node": ">=18.17 <=22",
     "pnpm": ">=10.2.1"
   },
